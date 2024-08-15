@@ -7,5 +7,5 @@ export default defineConfig({
   server: {
     port: 5174,
   },
-  base: '/ask-me-anything/', // Adicione esta linha
+  base: '/ask-me-anything/',
 })
